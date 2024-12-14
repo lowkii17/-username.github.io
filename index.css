@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: black;
     margin: 0 0;
 
 }
@@ -9,6 +9,7 @@ border-radius: 40%;
 }
 
 *{
+    color: white;
     font-family: Helvetica;
     background-image: url(https://www.google.com/imgres?q=art%20studio&imgurl=https%3A%2F%2Fstudio-wallflower.com%2Fwp-content%2Fuploads%2F2023%2F01%2Ftess-newall-studio.jpg&imgrefurl=https%3A%2F%2Fstudio-wallflower.com%2Fart-studio-inspiration%2F&docid=VhM_bjOQ0SOKzM&tbnid=WsEuuDDtDgZLkM&vet=12ahUKEwjG0KfAm5KKAxVjM1kFHYBFHrgQM3oECBoQAA..i&w=1080&h=1350&hcb=2&ved=2ahUKEwjG0KfAm5KKAxVjM1kFHYBFHrgQM3oECBoQAA);
 }
